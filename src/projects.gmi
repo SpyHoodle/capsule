@@ -1,0 +1,7 @@
+# Maddie's Workbench
+A detailed writeup of all my projects that I work/worked on.
+> These pages may be continusly updated.
+
+=> projects/radio.gmi         📻 Radio & communication
+
+=> index.gmi 🚪 Back to the hallway

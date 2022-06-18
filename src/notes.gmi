@@ -1,0 +1,7 @@
+# Maddie's Desk
+Notes, thoughts or diary entries that I write about my day.
+> Think of this as the personal and informal side of my blog.
+
+=> notes/2022-06-18.gmi 2022-06-18 - Gemini is amazing
+
+=> index.gmi 🚪 Back to the hallway

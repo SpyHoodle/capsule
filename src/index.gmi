@@ -1,0 +1,30 @@
+```
+                     __                    ____
+   _________  __  __/ /_  ____  ____  ____/ / /__    ____ ___  ___
+  / ___/ __ \/ / / / __ \/ __ \/ __ \/ __  / / _ \  / __ `__ \/ _ \
+ (__  ) /_/ / /_/ / / / / /_/ / /_/ / /_/ / /  __/ / / / / / /  __/
+/____/ .___/\__, /_/ /_/\____/\____/\__,_/_/\___(_)_/ /_/ /_/\___/
+    /_/    /____/ v3.0
+```
+
+# λ Maddie's Capsule
+Welcome to my small corner of the internet.
+
+=> notes.gmi    📝 Desk
+=> blog.gmi     📕 Bookshelf
+=> projects.gmi 🔧 Workbench
+
+## About me
+Hey there, I'm Maddie, another trans programmer.
+I'm interested in radio communication, computer science and physics.
+
+I'm devoted, hard working, and an amazingly fast learner.
+
+## About this capsule
+* It'll contain mostly my blog and projects.
+* It's still a work in progress.
+
+## Contact me
+=> https://matrix.org         Matrix: @spyhoodle:arcticfoxes.net
+=> https://discord.com        Discord: SpyHoodle#8541
+=> mailto:spyhoodle@gmail.com Email: Coming soon!
