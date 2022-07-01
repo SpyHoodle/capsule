@@ -2,8 +2,6 @@
 Topics I talk about/my personal views (similar to a blog.)
 > This page is probably just for my girlfriend.
 
-=> blog/religion.gmi          2022-06-10 - Religion (#3)
-=> blog/operatingsystems.gmi  2022-06-10 - Operating Systems (#2)
-=> blog/xenogenders.gmi       2022-06-17 - Xenogenders (#1)
+=> blog/hdmi-vs-dp.gmi       2022-07-01 - Fuck HDMI. (#1)
 
 => index.gmi 🚪 Back to the hallway
