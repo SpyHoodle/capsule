@@ -1,5 +1,5 @@
-# Maddie's Desk
-Notes, thoughts or diary entries that I write about my day.
+# Maddie's Coarkboard
+Notes, thoughts or diary entries that I write throughout my day.
 > Think of this as the personal and informal side of my blog.
 
 => notes/2022-07-02.gmi 2022-07-02 - Gemini is amazing!
