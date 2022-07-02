@@ -10,7 +10,7 @@
 # λ Maddie's Capsule
 Welcome to my small corner of the internet.
 
-=> notes.gmi    📝 Desk
+=> notes.gmi    📌 Coarkboard
 => blog.gmi     📕 Bookshelf
 => projects.gmi 🔧 Workbench
 
